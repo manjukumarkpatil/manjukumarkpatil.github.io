@@ -1,2 +1,2 @@
-# naveentr.github.io
+# manjukumarkpatil.github.io
 My personal Website which talks more about me.
